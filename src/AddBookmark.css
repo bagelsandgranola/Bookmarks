@@ -1,0 +1,33 @@
+.add_form {
+    display: block;
+    width: 300px;
+    margin: auto;
+
+ 
+}
+
+.form {
+ 
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+   
+}
+
+.text_input {
+    width: 200px;
+}
+
+.number_input {
+    display: inline-block;
+}
+
+label {
+    font-size: 12px;
+}
+
+.AddBookmark_title {
+    padding: 20px;
+}

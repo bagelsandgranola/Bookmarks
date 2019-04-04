@@ -1,0 +1,25 @@
+.Bookmark_content {
+    text-align: left;
+    width: 400px;
+}
+
+.Rating {
+    float: right;
+}
+
+.Bookmark {
+    display: flex;
+    align-items: top;
+    width: 400px;
+    padding: 20px;
+    border: 1px solid lightgrey;
+    margin: auto;
+    margin-top: 20px;
+    align-items: top;
+
+}
+
+h1 {
+    font-size: 18px;
+    margin: 0px;
+}
